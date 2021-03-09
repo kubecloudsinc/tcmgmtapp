@@ -102,7 +102,7 @@
 				<executions>
 					<execution>
 						<id>default-war</id>
-						<phase>none</phase>
+						<phase>package</phase>
 					</execution>
 					<execution>
 						<id>war-exploded</id>
