@@ -17,7 +17,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="<c:url value='/css/bootstrap.min.css'/>" type="text/css"
 	rel="stylesheet" />
-<link href="/css/bootstrap-responsive.min.css" type="text/css"
+<link href="<c:url value='/css/bootstrap-responsive.min.css'/>" type="text/css"
       rel="stylesheet" />
 <link href="<c:url value='/css/style.css'/>" type="text/css"
 	rel="stylesheet" />
